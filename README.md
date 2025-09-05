@@ -1,8 +1,7 @@
 # Sistema de Cobranzas
-<img width="700" height="500" alt="Screenshot 2025-09-03 165852" src="https://github.com/user-attachments/assets/e545963e-2520-489c-b523-c51ec22ecc8c" />
-<img width="700" height="500" alt="Screenshot 2025-09-03 165852" src="https://github.com/user-attachments/assets/0199ff62-b39e-4f91-a83a-c026a5c5cbca" />
-
-<img width="700" height="500" alt="Screenshot 2025-09-03 165808" src="https://github.com/user-attachments/assets/26674b4a-a39d-45b2-86e3-068c07a66cfb" />
+<img width="700" height="500" src="https://github.com/user-attachments/assets/68e8805d-ae02-4c00-bf63-68fddcf1acf5"/>
+<img width="700" height="500" src="https://github.com/user-attachments/assets/16cf0b42-0f73-45a2-97f8-621e7e8d7fc4"/>
+<img width="700" height="500" src="https://github.com/user-attachments/assets/ec6bba97-fd91-4432-8d59-3174ebe28569"/>
 
 ## 1. Estrategia de Desarrollo
 La solución se implementa como una *aplicación web basada en Spring Boot* que expone una *API REST protegida con Spring Security*.  
